@@ -113,3 +113,8 @@ core and record traces), `compare_blocks.mjs` (engine vs. real game),
 `botrun.mjs` (autopilot over many stages), `render_music.mjs` /
 `render_mus.mjs` (offline audio renders) and `cdp.mjs` (headless browser
 screenshots).
+
+## Credits
+
+Built by Jason Hixon, with Muse (Meta) and Claude (Anthropic) as
+contributing developers.
